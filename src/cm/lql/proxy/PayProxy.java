@@ -18,6 +18,12 @@ public class PayProxy implements IPayMoney {
 		obj.payMoney();
 		System.out.println("สีฮฒนคื๗");
 	}
+
+	@Override
+	public void printSomething() {
+		// TODO Auto-generated method stub
+		
+	}
 	
 	
 
